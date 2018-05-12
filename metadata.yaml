@@ -1,0 +1,28 @@
+_repo: Een-Meisje-Studentje_29044
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Salomons, Annie
+    alias: Wageningen-Salomons, Anna Maria Francisca van
+    birthdate: 1885
+    deathdate: 1980
+    gutenberg_agent_id: '33656'
+    url: http://www.gutenberg.org/2009/agents/33656
+    wikipedia: http://nl.wikipedia.org/wiki/Annie_Salomons
+description: ''
+gutenberg_issued: '2009-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29044'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women college students -- Fiction'
+- !lcc 'PT'
+title: Een Meisje-Studentje
+url: http://www.gutenberg.org/ebooks/29044
